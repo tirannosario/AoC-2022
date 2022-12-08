@@ -1,6 +1,7 @@
 # AoC-2022
 Solutions for Advent of Code 2022
 
+```
          |
         -+-
          A
@@ -17,3 +18,4 @@ Solutions for Advent of Code 2022
 i/ *   O   O   * \i
 /=================\
        |___|
+```
