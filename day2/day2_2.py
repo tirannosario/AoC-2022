@@ -1,3 +1,4 @@
+# solution by @dualjk and @tirannosario
 
 plus = {"A":[3,1,2], "B":[1,2,3], "C":[2,3,1]}
 assignment = {"X":0, "Y":1, "Z":2}

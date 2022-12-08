@@ -1,3 +1,4 @@
+# solution by @dualjk and @tirannosario
 
 rules = {"A":[3,6,0], "B":[0,3,6], "C":[6,0,3]}
 assignment = {"X":1, "Y":2, "Z":3}
