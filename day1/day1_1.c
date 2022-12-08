@@ -1,3 +1,5 @@
+// solution by @dualjk and @tirannosario
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -35,6 +37,6 @@ int main(){
 
         fprintf(stdout, "Elf n.%d with %d calories is the winner", max_elf, max_sum);
     }
-    
+
     return 1;
 }
