@@ -1,5 +1,5 @@
 # AoC-2022
-Solutions for Advent of Code 2022
+Solutions for Advent of Code 2022 (colab w/ [@dualjk](https://www.github.com/dualjk)] )
 
 ```
          |
